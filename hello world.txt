@@ -1,3 +1,4 @@
 print ('Hello world');
 print ('Приветище');
 print ('áhineya');
+Tipa dobavil mnogo tochek
