@@ -1,4 +1,8 @@
 print ('Hello world');
 print ('Приветище');
 print ('áhineya');
+<<<<<<< HEAD
 Tipa dobavil mnogo tochek
+=======
+Pipishe
+>>>>>>> hello-advanced
